@@ -1,10 +1,11 @@
-RISC-V Workshop Repository
+# RISC-V Workshop Repository
 
 This repository features images of RISC-V code and hardware designs from a 2-day RISC-V workshop. It's a curated collection to help you explore the fascinating world of RISC-V architecture, tools, and practical applications.
 Workshop Overview
 Duration: 2 Days
 Focus: RISC-V architecture, tools, assembly language, and performance optimization.
-Day 1: Foundations
+
+## Day 1: Foundations
 
     Understanding RISC-V Architecture:
 
@@ -22,7 +23,7 @@ Day 1: Foundations
 
         Writing and running basic RISC-V programs on simulators.
 
-Day 2: Advanced Topics
+## Day 2: Advanced Topics
 
     RISC-V Assembly Language:
 
@@ -41,3 +42,6 @@ Day 2: Advanced Topics
         RISC-V in embedded systems and custom hardware.
 
         Benefits of open-source hardware for innovation.
+# Conclusion
+
+This workshop demonstrated the versatility and power of RISC-V architecture, making it a valuable tool for hardware and software development. The hands-on approach ensured practical learning, while real-world examples showcased its potential for innovation.
